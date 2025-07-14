@@ -49,7 +49,7 @@
 
 ### Architecture Documentation
 - [Entity Relationship Diagram (ERD)](./ERD.pdf)
-- [Class Diagram](/classDigram.pdf) 
+- [Class Diagram](./classDigram.pdf) 
 - [Use Case Diagram](./UseCase.pdf)
 
 ## Technical Specifications
